@@ -13,7 +13,7 @@
 
 /* End Fonts */
 
-.header,
+
 .jumbotron {
     border-bottom: 1px solid #e5e5e5
 }
@@ -25,7 +25,7 @@
     padding: .2em 0
 }
 
-h2 {
+h2, a {
 	font-family: 'robotoregular'
 }
 
@@ -54,7 +54,6 @@ body {
 .footer {
     padding-top: 19px;
     color: #777;
-    border-top: 1px solid #e5e5e5;
     margin-top: 2em
 }
 
