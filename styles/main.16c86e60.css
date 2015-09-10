@@ -17,15 +17,15 @@
 	background-color: beige
 }
 
-div .navbar .navbar-default{
+div.navbar.navbar-default {
 	background-color: honeydew
 }
 
-div .navbar-header {
+div.navbar-header  {
 	background-color: honeydew
 }
 
-li .active a {
+li.active a {
   background-color: beige
 }
 
