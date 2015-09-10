@@ -13,6 +13,21 @@
 
 /* End Fonts */
 
+.ng-scope{
+	background-color: beige
+}
+
+div .navbar .navbar-default{
+	background-color: honeydew
+}
+
+div .navbar-header {
+	background-color: honeydew
+}
+
+li .active a {
+  background-color: beige
+}
 
 .jumbotron {
     border-bottom: 1px solid #e5e5e5
@@ -25,7 +40,7 @@
     padding: .2em 0
 }
 
-h2, a {
+h2, a, input {
 	font-family: 'robotoregular'
 }
 
