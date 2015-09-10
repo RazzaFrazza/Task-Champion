@@ -13,6 +13,13 @@
 
 /* End Fonts */
 
+input.btn.btn-primary {
+		background-color: honeydew;
+		color: #777;
+		margin-left: 1em;
+		border-color: none
+}
+
 .ng-scope{
 	background-color: beige
 }
@@ -23,10 +30,6 @@ div.navbar.navbar-default {
 
 div.navbar-header  {
 	background-color: honeydew
-}
-
-li.active a {
-  background-color: beige
 }
 
 .jumbotron {
@@ -42,6 +45,10 @@ li.active a {
 
 h2, a, input {
 	font-family: 'robotoregular'
+}
+
+h2 {
+    color: #777
 }
 
 body {
